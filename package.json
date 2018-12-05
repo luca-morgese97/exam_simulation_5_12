@@ -1,0 +1,23 @@
+{
+  "name": "exam_simulation_5_12",
+  "version": "1.0.0",
+  "description": "Exam simulation repo (public because I cannon access github pro for the moment)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luca-morgese97/exam_simulation_5_12.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luca-morgese97/exam_simulation_5_12/issues"
+  },
+  "homepage": "https://github.com/luca-morgese97/exam_simulation_5_12#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
