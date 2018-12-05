@@ -25,3 +25,5 @@ app.get('/square', function(req, res) {
 app.listen(port, () => {
     console.log('App listening on port: ' + port);
 });
+
+module.exports.string_square = string_square;
